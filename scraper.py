@@ -29,6 +29,9 @@ SOURCE_URLS = [
     "https://mm.mibei77.com/202606/06.0664bacrt.txt",
     "https://mm.mibei77.com/202606/06.0764bacrt.txt",
     "https://mm.mibei77.com/202606/06.0864bacrt.txt",
+    "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/splitted/vmess.txt",
+    "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/V2Ray-Config-By-EbraSha-All-Type.txt",
+    "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/splitted/trojan.txt",
     "https://gt.1155555.xyz/https://raw.githubusercontent.com/shaoyouvip/free/refs/heads/main/base64.txt" 
 ]
 
